@@ -1,0 +1,1 @@
+sqlcmd -S localhost -U SA -P '1208Executivo' -d bikestores -i ~/tutorias/sql_server/SQL-Server-Sample-Database/BikeStores\ Sample\ Database\ -\ create\ objects.sql -o ~/tutorias/sql_server/SQL-Server-Sample-Database/output_file.txt
